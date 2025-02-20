@@ -1,3 +1,6 @@
+// Huu Nguyen
+// Foungnigue Souleymane Hassan Coulibaly
+
 import 'package:flutter/material.dart';
 import 'package:percent_indicator/percent_indicator.dart';
 
